@@ -1,0 +1,38 @@
+﻿FormatVersion: 7
+Name: "Wallpapers"
+Script: "Wallpaper"
+Multithreaded: No
+Config:
+  endPos:
+    Type: "OpenTK.Vector2"
+    Value: "320,240"
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  bdff6c5a3bf34c3faeec77152790e258:
+    Name: "bg"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  d3fff6b8cccf4659b299a3cdb584c707:
+    Name: "kiai"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  ed5b5f863b5b489281565e0a19c64290:
+    Name: "end"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  25ec3fee84204c96b527d8b952f85d26:
+    Name: "midpoint"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  eaebbdcc2e204921906976134c55b030:
+    Name: "flash"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes

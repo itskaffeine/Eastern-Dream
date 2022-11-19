@@ -1,0 +1,15 @@
+﻿FormatVersion: 7
+Name: "Break Lighting"
+Script: "Break"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  79199307e28741ab9aa89f03c88fe56c:
+    Name: "bg"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
